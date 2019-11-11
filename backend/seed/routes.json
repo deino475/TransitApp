@@ -1,0 +1,2437 @@
+{
+"d" : {
+"results": [
+{
+"RouteId": "Ho414_4620_35987", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "002", "LongName": "BELLAIRE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35987')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35988", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "003", "LongName": "LANGLEY - LITTLE YORK", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35988')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35989", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "004", "LongName": "BEECHNUT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35989')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35990", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "005", "LongName": "SOUTHMORE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35990')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35991", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "006", "LongName": "JENSEN / GREENS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35991')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35992", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "007", "LongName": "WEST AIRPORT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35992')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35993", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "008", "LongName": "WEST BELLFORT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35993')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35994", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "009", "LongName": "GULFTON / HOLMAN", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35994')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35995", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "010", "LongName": "WILLOWBEND", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35995')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35996", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "011", "LongName": "ALMEDA / LYONS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35996')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35997", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "014", "LongName": "HIRAM CLARKE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35997')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35998", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "020", "LongName": "CANAL / MEMORIAL", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35998')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_35999", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "023", "LongName": "CLAY - W 43RD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_35999')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36000", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "025", "LongName": "RICHMOND", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36000')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36001", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "026", "LongName": "LONG POINT / CAVALCADE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36001')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36002", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "027", "LongName": "SHEPHERD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36002')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36003", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "028", "LongName": "OST - WAYSIDE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36003')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36004", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "029", "LongName": "CULLEN / HIRSCH", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36004')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36005", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "030", "LongName": "CLINTON / ELLA", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36005')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36006", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "032", "LongName": "RENWICK / SAN FELIPE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36006')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36007", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "033", "LongName": "POST OAK", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36007')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36008", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "036", "LongName": "KEMPWOOD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36008')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36009", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "038", "LongName": "MANCHESTER-LAWNDALE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36009')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36010", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "039", "LongName": "KATY FREEWAY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36010')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36011", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "040", "LongName": "TELEPHONE / HEIGHTS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36011')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36012", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "041", "LongName": "KIRBY / POLK", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36012')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36013", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "044", "LongName": "ACRES HOMES", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36013')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36014", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "045", "LongName": "TIDWELL", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36014')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36015", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "046", "LongName": "GESSNER", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36015')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36016", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "047", "LongName": "HILLCROFT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36016')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36017", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "048", "LongName": "MARKET", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36017')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36018", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "049", "LongName": "CHIMNEY ROCK / S POST OAK", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36018')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36019", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "050", "LongName": "BROADWAY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36019')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36020", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "051", "LongName": "HARDY- KELLEY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36020')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36021", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "052", "LongName": "HARDY- LEY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36021')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36022", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "054", "LongName": "SCOTT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36022')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36023", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "056", "LongName": "AIRLINE / MONTROSE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36023')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36024", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "058", "LongName": "HAMMERLY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36024')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36025", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "059", "LongName": "ALDINE MAIL", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36025')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36026", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "060", "LongName": "CAMBRIDGE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36026')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36027", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "063", "LongName": "FONDREN", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36027')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36028", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "064", "LongName": "LINCOLN CITY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36028')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36029", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "065", "LongName": "BISSONNET", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36029')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36030", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "066", "LongName": "QUITMAN", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36030')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36031", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "067", "LongName": "DAIRY ASHFORD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36031')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36032", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "068", "LongName": "BRAESWOOD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36032')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36033", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "070", "LongName": "MEMORIAL", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36033')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36034", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "071", "LongName": "COTTAGE GROVE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36034')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36035", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "072", "LongName": "WESTVIEW", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36035')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36036", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "073", "LongName": "BELLFORT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36036')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36037", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "075", "LongName": "ELDRIDGE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36037')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36038", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "076", "LongName": "EVERGREEN", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36038')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36039", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "077", "LongName": "HOMESTEAD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36039')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36040", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "078", "LongName": "WAYSIDE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36040')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36041", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "079", "LongName": "IRVINGTON", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36041')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36042", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "080", "LongName": "MLK / LOCKWOOD", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36042')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36043", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "082", "LongName": "WESTHEIMER", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36043')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36044", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "083", "LongName": "LEE ROAD - JFK", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36044')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36045", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "084", "LongName": "BUFFALO SPEEDWAY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36045')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36046", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "085", "LongName": "ANTOINE / WASHINGTON", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36046')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36047", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "086", "LongName": "FM 1960 / IMPERIAL VALLEY", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36047')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36048", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "087", "LongName": "SUNNYSIDE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36048')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36049", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "088", "LongName": "SAGEMONT", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36049')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36050", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "089", "LongName": "DACOMA", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36050')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36051", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "096", "LongName": "VETERANS MEMORIAL", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36051')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36052", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "097", "LongName": "SETTEGAST", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36052')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36053", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "098", "LongName": "BRIARGATE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36053')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36054", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "099", "LongName": "ELLA - FM 1960", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36054')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36055", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "102", "LongName": "BUSH IAH EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36055')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36057", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "137", "LongName": "NORTHSHORE EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36057')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36059", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "152", "LongName": "HARWIN EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36059')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36060", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "153", "LongName": "HARWIN EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36060')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36061", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "160", "LongName": "MEMORIAL CITY EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36061')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36062", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "161", "LongName": "WILCREST EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36062')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36063", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "162", "LongName": "MEMORIAL EXPRESS", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36063')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36106", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "360", "LongName": "PEERLESS SHUTTLE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36106')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36109", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "399", "LongName": "KUYKENDAHL SHUTTLE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36109')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36112", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "413", "LongName": "GREENLINK ORANGE", "RouteType": "Bus", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36112')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36133", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "700", "LongName": "METRORAIL RED LINE", "RouteType": "LightTrain", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36133')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36144", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "800", "LongName": "METRORAIL GREEN LINE", "RouteType": "LightTrain", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36144')/Arrivals"
+}
+}
+}, {
+"RouteId": "Ho414_4620_36149", "AgencyAbbreviation": "RideMetro", "FinalStop0Id": null, "FinalStop1Id": null, "RouteName": "900", "LongName": "METRORAIL PURPLE LINE", "RouteType": "LightTrain", "DataSource": "Transit_5", "FinalStop0": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/FinalStop0"
+}
+}, "FinalStop1": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/FinalStop1"
+}
+}, "Directions": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/Directions"
+}
+}, "NonOrderedStops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/NonOrderedStops"
+}
+}, "Stops": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/Stops"
+}
+}, "Incidents": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/Incidents"
+}
+}, "Arrivals": {
+"__deferred": {
+"uri": "http://api.transitiq.com/ODataService.svc/Routes('Ho414_4620_36149')/Arrivals"
+}
+}
+}
+]
+}
+}
